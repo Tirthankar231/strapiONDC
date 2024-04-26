@@ -58,3 +58,6 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 1)Created a custom plugin
 2)Returned the nested data from GET request
+3)Changed the logo of auth and menu to ONDC
+4)Changed the app name to ONDC OMS
+5)Added 2 users one is restricted and other is authenticated.
